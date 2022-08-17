@@ -2,6 +2,14 @@
 
 This is a pre-launch landing page challenge
 
+# Preview
+<https://austin-landing-page-challenge.netlify.app/>
+
+## Node version used
+```bash
+v16.14.2
+```
+
 ## Install the dependencies
 ```bash
 yarn
@@ -21,6 +29,3 @@ yarn lint
 ```bash
 yarn build
 ```
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
